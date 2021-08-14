@@ -8,7 +8,7 @@
 * Student ID: 165239187 
 * Date: 2021-08-13
 *
-*
+* Link to Music App: https://seneca-music-tau.vercel.app/
 * Link to User Api: https://secure-wave-75212.herokuapp.com/
 ********************************************************************************/
 
@@ -23,7 +23,7 @@ import { AuthService } from './auth.service';
 })
 
 export class AppComponent implements OnInit {
-  title = 'web422-a5';
+  title = 'web422-a6';
   searchString: string = "";
   public token: any;
 
